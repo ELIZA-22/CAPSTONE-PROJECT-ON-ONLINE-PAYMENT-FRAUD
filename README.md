@@ -20,4 +20,4 @@ Data prepocessing which include feature engineering  and creation of a dataframe
 Performed Random Undersampling and Oversampling to test the models to see if both the train and test label distribution were similarly distributed
 At the end 8 Machine learning  Algorithms were applied to the dataset and the accuracy score, cross validation and roc_auc_list of the algorithms range from 95-100% overall.
 ## challenges Encountered 
-I had some key error , syntax errors and logic errors pop up during the process and was able to solve them thanks to Tiwalade ,Mr obinna and Mr Efemena.
+I had some key errors , syntax errors and logic errors pop up during the process and was able to solve them thanks to Tiwalade ,Mr obinna and Mr Efemena.
